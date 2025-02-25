@@ -72,5 +72,5 @@ Zomato-restaurant-expansion/
 3. Open the Excel dashboard from the `data/` folder to explore insights.
 
 ### 📊 Explore the Dashboard
-[Download Dashboard](https://github.com/yourusername/Zomato-restaurant-expansion/blob/main/data/ZOMATO_RESTAURANTS_EXPANSION.xlsx)
+[Download Dashboard](https://github.com/Sumanth834/Zomato-restaurant-expansion/blob/main/data/ZOMATO_RESTAURANTS_EXPANSION.xlsx)
 
