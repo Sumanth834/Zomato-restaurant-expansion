@@ -15,10 +15,10 @@ The analysis is structured around three core questions:
 ```
 Zomato-restaurant-expansion/
 ├── analysis/
-│    ├── Zomato_presentation.pptx
-│    └── Zomato_report.docx
+│    ├── PPT
+│    └── DOC
 ├── data/
-│    └── Zomato_Data_Dashboard(F).xlsx
+│    └── ZOMATO_RESTAURANTS_EXPANSION.xlsx
 └── images/
      └── dashboard_image.png
 ```
