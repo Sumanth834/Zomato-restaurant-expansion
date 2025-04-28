@@ -2,7 +2,7 @@
 
 This project aims to identify the most viable countries and cities for Zomato's restaurant expansion using a data-driven approach. Through comprehensive analysis, we derive insights to maximize profitability and enhance market reach.
 
-## 📊 Project Overview
+## Project Overview
 
 The analysis is structured around three core questions:
 
@@ -10,7 +10,7 @@ The analysis is structured around three core questions:
 - **Where?** Identify high-potential locations based on customer ratings, expenditure, and competition.
 - **How?** Optimize the business model through ideal cuisines, online delivery, and competitive pricing.
 
-## 💁️ Project Structure
+##  Project Structure
 
 ```
 Zomato-restaurant-expansion/
@@ -23,7 +23,7 @@ Zomato-restaurant-expansion/
      └── dashboard_image.png
 ```
 
-## 🔍 Key Insights
+##  Key Insights
 
 ### 1. Market Entry Strategy
 
@@ -57,7 +57,7 @@ Zomato-restaurant-expansion/
 - **High Competition**: Offer unique cuisine & premium service
 - **Changing Consumer Behavior**: Data-driven decisions
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1. Clone the repository:
    ```bash
@@ -71,7 +71,7 @@ Zomato-restaurant-expansion/
 
 3. Open the Excel dashboard from the `data/` folder to explore insights.
 
-### 📊 Explore the Dashboard
+### Explore the Dashboard
 [Download Dashboard](https://github.com/Sumanth834/Zomato-restaurant-expansion/blob/main/data/ZOMATO_RESTAURANTS_EXPANSION.xlsx)
 
 4.Direct View Link (Dashboard Image):
