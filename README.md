@@ -19,8 +19,7 @@ Zomato-restaurant-expansion/
 │    └── DOC
 ├── data/
 │    └── ZOMATO_RESTAURANTS_EXPANSION.xlsx
-└── images/
-     └── dashboard_image.png
+
 ```
 
 ##  Key Insights
