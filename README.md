@@ -74,6 +74,7 @@ Zomato-restaurant-expansion/
 ### Explore the Dashboard
 [Download Dashboard](https://github.com/Sumanth834/Zomato-restaurant-expansion/blob/main/data/ZOMATO_RESTAURANTS_EXPANSION.xlsx)
 
-4.Direct View Link (Dashboard Image):
-https://github.com/Sumanth834/Zomato-restaurant-expansion/blob/main/images/DASHBOARD.png
+4.(Dashboard Image):
+![1750061048771](https://github.com/user-attachments/assets/16635e6e-bb17-456c-a645-ff746b55f262)
+
 
